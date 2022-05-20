@@ -3,15 +3,15 @@
     "team": "New York Yankees",
     "statistics": [
         {
-            "gamesPlayed": "3298",
-            "atBats": "12364",
-            "runs": "2174",
-            "hits": "3771",
-            "rbi": "2297",
-            "walks": "1402",
-            "strikeOuts": "1383",
-            "homeRuns": "755",
-            "stolenBases": "240"
+            "Games Played": "3298",
+            "At Bats": "12364",
+            "Runs": "2174",
+            "Hits": "3771",
+            "RBI": "2297",
+            "Walks": "1402",
+            "StrikeOuts": "1383",
+            "HomeRuns": "755",
+            "Stolen Bases": "240"
         }
     ]
 }
