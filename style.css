@@ -1,0 +1,112 @@
+body {
+    padding: 0;
+    margin: 10px;
+    overflow-x: hidden;
+    background-color: rgb(222, 220, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(206, 17, 65);
+    background-image: url("https://mktg.mlbstatic.com/braves/downloads/y2020/for_the_a_wallpaper_white_1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#navbar ul, li{
+    display: list-item;
+    background-color:rgb(206, 17, 65);
+    padding: 5px 10px;
+    margin: 0 3px;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 90%;
+}
+
+#navbar li{
+    display: inline-block;
+}
+
+#main h1 {
+    text-align: center;
+    background-color: rgb(19, 39, 79);
+    margin: 0;
+    padding: 20px 0px;
+    color: rgb(234, 170, 0);
+    font-size: 50px;
+    opacity: 90%;
+    border-radius: 10px;
+}
+
+ul, li{
+    background: transparent;
+    text-align: left;
+}
+
+#img img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+    box-shadow: 10px 10px;
+}
+
+#img h4 {
+    text-align: center;
+}
+
+#backstory p {
+    padding: 0px 20px;
+    text-align: center;
+}
+
+#stat {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+#stat .career-info {
+    width: 45%;
+}
+
+.header {
+    background-color: rgb(19, 39, 79);
+    padding: 10px;
+    text-align: center;
+    opacity: 90%;
+    border-radius: 10px;
+}
+
+.career-info table caption {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+table,th, td {
+    height: 50px;
+    width: 1000px ;
+    background-color: rgb(19, 39, 79);
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    opacity: 90%;
+}
+
+.career-info th,
+.career-info td {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+#after-baseball h2 {
+    padding: 10px 0px 10px 40px;
+}
+
+p {
+    padding: 0px 40px;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
